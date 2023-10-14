@@ -341,7 +341,7 @@ window.dane = {
         "rekomendacjePartii": [
             "KO"
         ],
-        "txt": "PiS i Konfederacja mają największe szanse na ostatnie mandaty. Wspierając Trzecią Drogę lub Lewicę zwiększasz szanse na odebranie im tych mandatów.",
+        "txt": "Lewica i Trzecia Droga ma niewielką szansę na zdobycie kolejnego mandatu. Jedynie KO może nawiązać walkę, gdyż może być niedoszacowana dlatego należy ją wesprzeć. Lokalny spór polityczny może prowadzić do większego poparcie dla KO niż to wynika z rachunków.",
     }
 }
 
